@@ -1,3 +1,6 @@
+.img-products{
+  width: 250px;
+}
 .jumbotron, .card-body, .container, .site-header{
     font-family: 'Raleway', serif !important;
 }
